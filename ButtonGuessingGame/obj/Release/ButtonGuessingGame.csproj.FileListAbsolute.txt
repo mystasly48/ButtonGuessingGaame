@@ -1,0 +1,9 @@
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\bin\Release\ButtonGuessingGame.exe.config
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\bin\Release\ButtonGuessingGame.exe
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\bin\Release\ButtonGuessingGame.pdb
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\obj\Release\ButtonGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\obj\Release\ButtonGuessingGame.Form1.resources
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\obj\Release\ButtonGuessingGame.Properties.Resources.resources
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\obj\Release\ButtonGuessingGame.csproj.GenerateResource.Cache
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\obj\Release\ButtonGuessingGame.exe
+C:\Users\kamadapc\Desktop\ButtonGuessingGame\ButtonGuessingGame\obj\Release\ButtonGuessingGame.pdb
